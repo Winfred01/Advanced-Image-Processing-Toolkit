@@ -53,10 +53,3 @@ Contributions to the `Advanced Image Processing Toolkit` are welcome. Please ens
 
 - Gaussian Blur and Edge Detection algorithms are widely used in the field of image processing and have been adapted here for educational purposes.
 - Thanks to all the contributors who have improved this toolkit.
-
-```
-
-### Notes:
-- Replace placeholders (like `{/* pixel data */}`) with actual data or steps to retrieve such data depending on how images are handled in your specific project environment.
-- The `Installation` section is simplified. You might want to include more detailed instructions depending on how complex your project setup is.
-- Adjust the `License` section according to the actual license your project uses.
