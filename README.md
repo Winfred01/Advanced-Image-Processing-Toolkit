@@ -48,9 +48,6 @@ Download the `ImageFilter.java` from this repository and include it in your Java
 
 Contributions to the `Advanced Image Processing Toolkit` are welcome. Please ensure to follow the coding style and add unit tests for any new or changed functionality.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
