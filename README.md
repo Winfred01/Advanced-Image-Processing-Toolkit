@@ -42,7 +42,7 @@ ImageFilter.edgeDetection(imageData, imageWidth);
 
 ## Installation
 
-Download the `ImageFilter.java` from this repository and include it in your Java project. Make sure to configure your project to handle image processing appropriately.
+Download the `ImageFilter.java` and `GraphicsApp.java` from this repository and include it in your Java project. Make sure to configure your project to handle image processing appropriately.
 
 ## Contributing
 
